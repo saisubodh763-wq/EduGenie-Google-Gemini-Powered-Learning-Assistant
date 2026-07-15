@@ -1,0 +1,6 @@
+{
+  "name": "EduGenie Learning Assistant",
+  "description": "An AI-powered personalized educational assistant supporting Q&A, simplified concept explanations, automated quiz generation, content summarization, and customized learning recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

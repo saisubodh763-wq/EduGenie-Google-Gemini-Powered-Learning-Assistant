@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "user_id": "user_demo123",
+      "name": "Demo Student",
+      "email": "student@edugenie.local",
+      "password": "EduPassword2026!",
+      "created_at": "2026-07-15T06:16:16-07:00"
+    }
+  ],
+  "queries": [],
+  "ai_responses": [],
+  "quizzes": [],
+  "summaries": [],
+  "learning_paths": [],
+  "emails": []
+}
